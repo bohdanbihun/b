@@ -22,7 +22,7 @@ font-family:'Montserrat';
 	width: 100%;
 	height: 100%;
 	position: relative; 
-	background-color: #CD5C5C;
+	background-color: #999999;
 	border: solid;	
 }
 .box2{
@@ -36,7 +36,7 @@ font-family:'Montserrat';
 	width: 100%;
 	height: 100%;
 	position: relative;
-	background-color: #FFD700;
+	background-color: #999999;
 	border: solid;
 }
 .menu{
@@ -52,7 +52,7 @@ font-family:'Montserrat';
 .box_small{
 	right: 0;
 	top: 0;
-	background-color: #d00000;
+	background-color: #F08080;
 	position: absolute; 
 	border-bottom: solid;
 	border-left: solid;
